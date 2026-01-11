@@ -1,77 +1,88 @@
-# 🧠 PST 2025–26 | Flowgorithm Practice
+# 🧠 PST 2025–26 | Problem Solving Practice Repository
 
-This repository contains my **Problem Solving Techniques (PST)** practice work for the academic year **2025–2026**, implemented using **Flowgorithm**.
+This repository contains my complete **Problem Solving Techniques (PST)** practice work for the academic year **2025–2026**.
+It includes **Flowgorithm-based flowcharts** and **Java programs executed using the GDB compiler**, covering all PST sessions and practice exercises.
 
-The focus of this repository is on building **strong logical thinking**, **step-by-step problem solving**, and **clear algorithm design** through flowcharts.
+The main goal of this repository is to strengthen **logical thinking**, **algorithmic problem-solving**, and **coding fundamentals** through consistent hands-on practice.
 
 ---
 
 ## 🎯 Purpose of This Repository
 
-- Practice core **problem-solving logic**
-- Visualize algorithms using **flowcharts**
-- Strengthen fundamentals before coding
-- Maintain a structured academic practice record
-- Track continuous improvement over time
+* Practice core problem-solving concepts
+* Build logic using flowcharts before coding
+* Implement the same logic using Java programs
+* Strengthen fundamentals required for advanced programming
+* Maintain a complete academic practice record for PST
+* Track continuous improvement over time
 
-This repository represents **practice, not projects** — and that is intentional.
-
----
-
-## 🛠️ Tool Used
-
-- **Flowgorithm**
-  - Flowchart-based algorithm design
-  - Step-by-step execution
-  - Language-independent logic building
+> This repository focuses on **practice and learning**, not finished projects — and that is intentional.
 
 ---
 
-## 🗂️ Contents
+## 🛠️ Tools & Technologies Used
 
-The repository includes problems such as:
+### 🔹 Flowgorithm
 
-- Basic input/output problems
-- Conditional logic (if / else)
-- Loop-based problems
-- Mathematical computations
-- Pattern and sequence logic
-- Beginner algorithm design exercises
+* Flowchart-based algorithm design
+* Step-by-step logical execution
+* Language-independent problem solving
 
-Each problem is represented as a **Flowgorithm (.fprg) file**.
+### 🔹 Java (GDB Compiler)
 
----
-
-*(Folders and files will be updated as practice progresses.)*
+* Java programs based on PST problems
+* Logical implementation of algorithms
+* Console-based execution and testing
 
 ---
 
-## 📌 Notes
+## 🗂️ Repository Contents
 
-- Problems are solved **step-by-step**
-- Emphasis is on **logic clarity**, not optimization
-- Flowcharts are designed to be **easy to understand and explain**
-- This repository will grow gradually with more problems
+This repository includes practice problems such as:
+
+* Basic input/output programs
+* Conditional logic (if / else, nested conditions)
+* Loop-based problems (for, while, do-while)
+* Pattern and sequence logic
+* Beginner-level algorithm and Java programs
+
+### File Types Included:
+
+* `.fprg` → Flowgorithm flowchart files
+* `.java` → Java programs executed using GDB compiler
+
+(Folders and files are updated continuously as PST sessions progress.)
+
+---
+
+## 📌 Practice Notes
+
+* Problems are solved step-by-step
+* Primary focus is on **logic clarity**, not optimization
+* Flowcharts are designed for easy understanding and explanation
+* Java programs directly reflect the same problem logic
+* This repository grows with each PST session and practice task
 
 ---
 
 ## 📅 Academic Context
 
-- **Subject:** Problem Solving Techniques (PST)
-- **Year:** 2025–2026
-- **Program:** B.E. Computer Science & Engineering
+* **Subject:** Problem Solving Techniques (PST)
+* **Academic Year:** 2025–2026
+* **Program:** B.E. Computer Science & Engineering
 
 ---
 
-## ✅ Status
+## ✅ Repository Status
 
-🚧 **Ongoing Practice Repository**  
-New problems will be added regularly as part of coursework and self-practice.
+🚧 **Ongoing Practice Repository**
+New Flowgorithm files and Java programs will be added regularly as part of coursework and self-practice.
 
 ---
 
 ## ✍️ Author
 
-**Cynthiya John**  
-B.E – Computer Science & Engineering
+**Cynthiya John**
+B.E. – Computer Science & Engineering
 
+---
