@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Circumference of a circle"/>
+        <attribute name="authors" value="Sharon"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-01-11 08:36:42 PM"/>
+        <attribute name="created" value="U2hhcm9uO0xBUFRPUC1WOTA1TjZTUTsyMDI2LTAxLTA4OzA5OjEzOjQ4IEFNOzI5NDE="/>
+        <attribute name="edited" value="U2hhcm9uO0xBUFRPUC1WOTA1TjZTUTsyMDI2LTAxLTExOzA4OjM2OjQyIFBNOzQ7MzA1OQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="C" type="Real" array="False" size=""/>
+            <declare name="F" type="Real" array="False" size=""/>
+            <output expression="&quot;Enter Celsius Temperature:&quot;" newline="True"/>
+            <input variable="C"/>
+            <assign variable="F" expression="C*9/5+32"/>
+            <output expression="C &amp;&quot; Celsius is &quot;&amp;F&amp;&quot; Fahrenheit&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

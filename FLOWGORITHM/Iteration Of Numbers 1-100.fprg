@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Circumference of a circle"/>
+        <attribute name="authors" value="Sharon"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-01-11 08:32:35 PM"/>
+        <attribute name="created" value="U2hhcm9uO0xBUFRPUC1WOTA1TjZTUTsyMDI2LTAxLTA4OzA5OjEzOjQ4IEFNOzI5NDE="/>
+        <attribute name="edited" value="U2hhcm9uO0xBUFRPUC1WOTA1TjZTUTsyMDI2LTAxLTExOzA4OjMyOjM1IFBNOzM7MzA1Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sum, i" type="Integer" array="False" size=""/>
+            <assign variable="sum" expression="0"/>
+            <assign variable="i" expression="1"/>
+            <while expression="i&lt;=100">
+                <output expression="i" newline="True"/>
+                <assign variable="i" expression="i+2"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
