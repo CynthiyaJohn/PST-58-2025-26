@@ -1,0 +1,32 @@
+package PST;
+
+public class Opps {
+
+	public static void main(String[] args) {
+		meth1();
+		
+	}
+	static void meth1() {
+		System.out.println("PandaaGurl: Cutieeee,Charming,Brainy girl");
+		meth2();
+		meth3();
+		meth4();
+		meth5();
+		meth6();
+	}
+	static void meth2() {
+		System.out.println("Sandhiya:Fast and Furious");
+	}
+	static void meth3() {
+		System.out.println("Avntuu:Bold and Calm");
+	}
+	static void meth4() {
+		System.out.println("Harish:Caring and Chilling");
+	}
+	static void meth5() {
+		System.out.println("Vijayy:Safe and Happy");
+	}
+	static void meth6() {
+		System.out.println("Cyntuu:Lazy and Furious");
+	}
+}
