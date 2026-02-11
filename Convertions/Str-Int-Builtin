@@ -1,0 +1,19 @@
+package PST;
+
+import java.util.Scanner;
+
+public class ConvStrIntBin {
+
+	public static void main(String[] args) {
+		Scanner sc= new Scanner(System.in);
+		System.out.println("Enter a numeric String:");
+		
+		String str=sc.next();
+		
+		Integer n=Integer.parseInt(str);
+		
+		System.out.println("String to Integer conversion Done."+n);
+		sc.close();
+	}
+
+}
