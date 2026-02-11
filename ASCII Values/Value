@@ -1,0 +1,20 @@
+package PST;
+
+import java.util.Scanner;
+
+public class ASCIIValue {
+
+	public static void main(String[] args) {
+		Scanner sc =new Scanner(System.in);
+		System.out.println("Enter an ASCII value(0-255):");
+		int value =sc.nextInt();
+		AsciiValue(value);
+	    sc.close();
+	}
+	static void AsciiValue(int n){
+		
+		char character =(char) n;
+        System.out.println("The Character For ASCII value of '" + n + "' is: " + character);	
+	}
+   
+}
